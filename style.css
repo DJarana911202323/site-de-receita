@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #fffaf0;
+  color: #333;
+}
+
+header {
+  background-color: #8b4513;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: #ffe4b5;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+.receita {
+  margin-bottom: 40px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ddd;
+}
+
+h2 {
+  color: #8b4513;
+}
+
+footer {
+  text-align: center;
+  background-color: #f5deb3;
+  padding: 10px;
+  font-size: 14px;
+}
